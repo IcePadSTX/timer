@@ -1,16 +1,9 @@
-@font-face {
-    font-family: ""; 
-    src: url("../fonts/Feturo.otf") format("truetype"); 
-    font-style: normal; 
-    font-weight: normal; 
-    } 
 *{
     margin: 0;
     box-sizing: border-box;
 }
 
 body{
-    font-family: "Feturo";
     background-color: black;
 }
 
